@@ -1,7 +1,3 @@
-
-
-
-
 $AppName = "FSLOGIX"
 $destination = "$env:SystemDrive\Invoke-Installs\$AppName\zip\"
 $Url = "https://download.microsoft.com/download/d/1/9/d190de51-f1c1-4581-9007-24e5a812d6e9/FSLogix_Apps_2.9.8228.50276.zip"
