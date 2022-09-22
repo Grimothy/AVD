@@ -1,0 +1,3 @@
+Domain,ObjType,SourceOU,DestOU,GroupName,GroupType,Recurse,Description
+"Melillodemo.com","computer","OU=ProductionHP,OU=WVD,OU=MJM-D-EUS,OU=Site,OU=mjm-demo,DC=melillodemo,DC=com","OU=Groups,OU=mjm-demo,DC=melillodemo,DC=com","grp_WVDProd_Computers","Security","SubTree","WVD PROD Dynamic Computer group created via powershell"
+
